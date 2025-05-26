@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "tarefa": "Estudar JavaScript",
+      "categoria": "Curso",
+      "concluido": true
+    },
+    {
+      "id": "2",
+      "tarefa": "Estudar ServiceNow",
+      "categoria": "Curso",
+      "concluido": false
+    },
+    {
+      "id": "3",
+      "tarefa": "Estudar Angular",
+      "categoria": "Curso",
+      "concluido": false
+    },
+    {
+      "id": "4",
+      "tarefa": "Estudar lógica",
+      "categoria": "desenvolvimento",
+      "concluido": true
+    }
+  ]
+}
