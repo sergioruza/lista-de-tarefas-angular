@@ -4,7 +4,7 @@
       "id": "1",
       "tarefa": "Estudar JavaScript",
       "categoria": "Curso",
-      "concluido": true
+      "concluido": false
     },
     {
       "id": "2",
@@ -17,12 +17,6 @@
       "tarefa": "Estudar Angular",
       "categoria": "Curso",
       "concluido": false
-    },
-    {
-      "id": "4",
-      "tarefa": "Estudar lógica",
-      "categoria": "desenvolvimento",
-      "concluido": true
     }
   ]
 }
